@@ -1,0 +1,7 @@
+[
+    {"name": "bob", "gpa": 3.4}, 
+    {"name": "sue", "gpa": 2.8}, 
+    {"name": "mary", "gpa": 2.0}, 
+    {"name": "zeb" }, 
+    {"name": "kent", "gpa": 4.0}
+]

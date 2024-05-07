@@ -1,0 +1,6 @@
+{ 
+    "name" : "mike", 
+    "age" : 51, 
+    "hometown" : "Syracuse",
+    "cars" : [ "bentley", "tesla" ]
+}
