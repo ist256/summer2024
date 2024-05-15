@@ -1,1 +1,1 @@
-Put your project materials in this folder
+All of your project related datasets will go in this folder. For Summer 2024 I don't anticipate that we will have 4 phases. More instructions as we get closer. 
