@@ -1,1 +1,5 @@
-demo
+Writing a test message!The first function teaches us how to append to a file. That is different than the write mode!
+No input is my exit condition.
+Then we
+'ll read all of the messages back. What is the type of messages?
+Then we'll print out all of the messages by using join. Lots to learn.
